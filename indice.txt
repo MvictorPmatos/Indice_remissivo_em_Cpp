@@ -1,0 +1,375 @@
+.
+[abrangem] = { 33 }
+.
+[abrangeram] = { 33 }
+.
+[abrem] = { 22 }
+.
+[abstração] = { 12 }
+.
+[aceitam] = { 27 }
+.
+[aceitaria] = { 18 }
+.
+[acontece] = { 12 }
+.
+[admitem] = { 25 }
+.
+[ainda] = { 32 }
+.
+[algumas] = { 24 }
+.
+[alheio] = { 35 }
+.
+[aliás] = { 17, 21 }
+.
+[apegam] = { 16 }
+.
+[apelam] = { 8 }
+.
+[apenas] = { 27 }
+.
+[aplica] = { 19 }
+.
+[aproveitar] = { 35 }
+.
+[apuração] = { 6 }
+.
+[aquela] = { 15 }
+.
+[aquelas] = { 34 }
+.
+[atribuir] = { 13 }
+.
+[brasil] = { 1, 5, 12 }
+.
+[camadas] = { 24, 33 }
+.
+[campo] = { 19 }
+.
+[características] = { 17 }
+.
+[circunstância] = { 34 }
+.
+[claro] = { 12 }
+.
+[classes] = { 24 }
+.
+[compreendidas] = { 33 }
+.
+[compromisso] = { 11 }
+.
+[conceito] = { 1, 24 }
+.
+[condição] = { 21 }
+.
+[condições] = { 9 }
+.
+[conjunto] = { 26 }
+.
+[conseqüentemente] = { 27 }
+.
+[consideram] = { 19 }
+.
+[constituem] = { 26, 30 }
+.
+[constituíram] = { 29 }
+.
+[consumo] = { 7 }
+.
+[contorno] = { 17 }
+.
+[correntes] = { 3, 25 }
+.
+[corresponde] = { 6, 23 }
+.
+[daquelas] = { 26 }
+.
+[defesa] = { 3 }
+.
+[definição] = { 23 }
+.
+[democracias] = { 4 }
+.
+[desempenham] = { 30 }
+.
+[desempenharam] = { 30 }
+.
+[desenvolvimento] = { 31 }
+.
+[desfavorecidos] = { 22 }
+.
+[despojou] = { 10 }
+.
+[desprezíveis] = { 26 }
+.
+[desse] = { 6 }
+.
+[diferenciar] = { 35 }
+.
+[direitos] = { 8 }
+.
+[distinguiam] = { 34 }
+.
+[dizem] = { 7 }
+.
+[dúvida] = { 28 }
+.
+[econômica] = { 24 }
+.
+[eleitoral] = { 5 }
+.
+[embora] = { 8 }
+.
+[emprego] = { 2 }
+.
+[entretanto] = { 20 }
+.
+[escolhidos] = { 5 }
+.
+[escrevem] = { 4 }
+.
+[espontaneamente] = { 23 }
+.
+[estamos] = { 32 }
+.
+[está] = { 12 }
+.
+[excede] = { 2 }
+.
+[excelência] = { 4 }
+.
+[exclusão] = { 19 }
+.
+[expressa] = { 17 }
+.
+[expressões] = { 3 }
+.
+[falam] = { 4 }
+.
+[fases] = { 29, 32 }
+.
+[fatos] = { 25 }
+.
+[forte] = { 30 }
+.
+[freqüente] = { 2 }
+.
+[fundamental] = { 31 }
+.
+[fórmula] = { 16 }
+.
+[genérica] = { 10 }
+.
+[grupos] = { 10, 24 }
+.
+[histórica] = { 32 }
+.
+[históricas] = { 29, 32 }
+.
+[homens] = { 11 }
+.
+[humilde] = { 21 }
+.
+[identificam] = { 25 }
+.
+[imagina] = { 14 }
+.
+[imaginar] = { 13 }
+.
+[imoderado] = { 8 }
+.
+[importância] = { 15 }
+.
+[indiscutível] = { 31 }
+.
+[intenso] = { 7 }
+.
+[interessados] = { 7 }
+.
+[interesse] = { 3 }
+.
+[interpretando] = { 25 }
+.
+[intuição] = { 20 }
+.
+[julge] = { 20 }
+.
+[letreiro] = { 19 }
+.
+[limitações] = { 17 }
+.
+[linguagem] = { 2, 14 }
+.
+[livre] = { 13 }
+.
+[maioria] = { 18, 26 }
+.
+[massa] = { 30 }
+.
+[massas] = { 26, 27, 32 }
+.
+[materiais] = { 28, 29, 34 }
+.
+[mesmo] = { 14, 18, 23, 34 }
+.
+[muito] = { 33 }
+.
+[mágica] = { 15 }
+.
+[naquilo] = { 14 }
+.
+[natural] = { 8 }
+.
+[nelas] = { 33 }
+.
+[nelson] = { 1 }
+.
+[nenhuma] = { 2 }
+.
+[ninguém] = { 18 }
+.
+[orgulho] = { 23 }
+.
+[outras] = { 35 }
+.
+[outros] = { 27 }
+.
+[palavra] = { 2, 7, 10, 13, 15 }
+.
+[palavras] = { 1 }
+.
+[papel] = { 31 }
+.
+[parte] = { 9 }
+.
+[participam] = { 17, 18 }
+.
+[particularmente] = { 14 }
+.
+[período] = { 6 }
+.
+[pessoa] = { 14 }
+.
+[pessoas] = { 9 }
+.
+[plano] = { 15 }
+.
+[política] = { 2, 14, 18 }
+.
+[político] = { 4, 15 }
+.
+[políticos] = { 25 }
+.
+[populares] = { 26, 33 }
+.
+[população] = { 33 }
+.
+[portas] = { 17 }
+.
+[possuem] = { 22 }
+.
+[poucas] = { 1 }
+.
+[preliminares] = { 6 }
+.
+[principal] = { 30 }
+.
+[problemas] = { 16 }
+.
+[proclamam] = { 8 }
+.
+[produtores] = { 28, 29 }
+.
+[produzem] = { 34 }
+.
+[produziam] = { 33 }
+.
+[própria] = { 19 }
+.
+[públicos] = { 11 }
+.
+[qualquer] = { 11 }
+.
+[quanto] = { 2, 20 }
+.
+[quantos] = { 4 }
+.
+[razão] = { 31 }
+.
+[realidade] = { 11 }
+.
+[realização] = { 6 }
+.
+[realmente] = { 25 }
+.
+[referida] = { 7 }
+.
+[refrão] = { 16 }
+.
+[repetidas] = { 3 }
+.
+[representantes] = { 5 }
+.
+[restritamente] = { 29 }
+.
+[resultados] = { 6 }
+.
+[rigorosos] = { 27 }
+.
+[secreta] = { 20 }
+.
+[sendo] = { 26 }
+.
+[sentido] = { 23 }
+.
+[significado] = { 13 }
+.
+[significação] = { 10 }
+.
+[situação] = { 24 }
+.
+[sociais] = { 24 }
+.
+[social] = { 21 }
+.
+[sociedade] = { 31 }
+.
+[sodré] = { 1 }
+.
+[somente] = { 12 }
+.
+[sorte] = { 22 }
+.
+[sésamo] = { 16 }
+.
+[também] = { 9, 31 }
+.
+[tempos] = { 28 }
+.
+[todas] = { 16, 29, 32 }
+.
+[todos] = { 7, 16, 17, 19, 28 }
+.
+[trabalhadores] = { 25, 26, 27, 29 }
+.
+[trabalho] = { 35 }
+.
+[título] = { 21 }
+.
+[variadas] = { 9, 33 }
+.
+[variados] = { 10 }
+.
+[verdade] = { 28 }
+.
+[vivemos] = { 9 }
+.
+[vivendo] = { 32 }
+.
+[vontade] = { 3 }
+.
+[werneck] = { 1 }
+.
+[único] = { 21 }
+.
